@@ -17,17 +17,12 @@
 <img src="https://img.shields.io/badge/Unity-57b9d3?style=for-the-badge&logo=Unity&logoColor=white">
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white">
 
-<br/>
-<br/>
-
-### Git
+<br/><br/><br/>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=estuma&rank_icon=github&show_icons=true&theme=default_repocard&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estuma&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <br/>
-
-### Baekjoon
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=duckhan)](https://solved.ac/duckhan/) 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=duckhan&theme=warm)
