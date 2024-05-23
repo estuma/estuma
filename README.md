@@ -45,7 +45,7 @@
 
 | Title | Introduction | Languages, etc. |
 | ------------- | ------------- | ------------- |
-| <a href="https://github.com/estuma/chuka">ㅊㅋ</a> | 온라인 롤링페이퍼 및 선물 펀딩 플랫폼 (2024) | Java, Spring Boot, Spring Security, MongoDB, RabbitMQ |
+| <a href="https://github.com/estuma/chuka">ㅊㅋ</a> | 온라인 롤링페이퍼 및 선물 펀딩 플랫폼 (2024) | Java, Spring Security, JWT, MongoDB, RabbitMQ |
 | <a href="https://github.com/estuma/yeojung">여행을 정산하다, 여정</a> | 여행 정산 어플리케이션 (2024) | Java, Spring Boot, JPA, Redis, Jenkins, Docker |
 | <a href="https://github.com/estuma/Mela">Mela!</a> | 음악 작업을 위한 구인, 공동 작업 플랫폼 (2024) | Java, Spring Boot, JPA, WebSocket |
 | <a href="https://github.com/estuma/TripLog">TripLog</a> | 여행 계획 및 사진 공유 플랫폼 (2023) | Java, Spring Boot, MyBatis, MySql, Vue.js, Pinia |
