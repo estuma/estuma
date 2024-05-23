@@ -49,7 +49,7 @@
 | <a href="https://github.com/estuma/yeojung">여행을 정산하다, 여정</a> | 여행 정산 어플리케이션 (2024) | Java, Sprint Boot, JPA, Redis, Jenkins, Docker |
 | <a href="https://github.com/estuma/Mela">Mela!</a> | 음악 작업을 위한 구인, 공동 작업 플랫폼 (2024) | Java, Sprint Boot, JPA, WebSocket |
 | <a href="https://github.com/estuma/TripLog">TripLog</a> | 여행 계획 및 사진 공유 플랫폼 (2023) | Java, Sprint Boot, MyBatis, MySql, Vue.js, Pinia |
-| <a herf="">행복한 지구</a> | VR 환경 보호 실천 교육 프로그램 (2022) | Unity, C#, Oculus Quest 2, Blender, 3ds Max |
+| <a herf="">행복한 지구</a> | VR 환경 보호 실천 교육 프로그램 (2022) | C#, Unity, Oculus Quest 2, Blender, 3ds Max |
 | <a href="https://github.com/estuma/mobile">모여봐요 병천살이</a> | 중고거래 및 공동구매 어플리케이션 (2021) | Java, Android Studio, Firebase |
 
 <br><br><br>
