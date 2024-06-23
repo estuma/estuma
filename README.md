@@ -2,6 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=99ccff&height=300&section=header&text=Welcome%20to%20SINYEONG's%20Github&fontSize=50" />
 
+
 ## Experience
 
 💻 SSAFY(Samsung Software Academy For Youth) 10th (2023.07 ~ Now)<br>
@@ -40,7 +41,7 @@
 <br/><br/><br/>
 
 ## Projects
-
+🔗<a href="https://estuma.notion.site/9962fef0380a42eeb15b739f244d4082?pvs=4">portfolio</a>
 
 
 | Title | Introduction | Languages, etc. |
