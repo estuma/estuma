@@ -41,8 +41,9 @@
 <br/><br/><br/>
 
 ## Projects
+<!--
 🔗<a href="https://estuma.notion.site/9962fef0380a42eeb15b739f244d4082?pvs=4" target='_blank'>portfolio</a>
-
+-->
 
 | Title | Introduction | Languages, etc. |
 | ------------- | ------------- | ------------- |
