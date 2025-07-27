@@ -5,18 +5,17 @@
 
 ## Experience
 
-💻 SSAFY(Samsung Software Academy For Youth) 10th (2023.07 ~ Now)<br>
-🎓 Department of Computer Science and Engineering, Korea University Of Technology & Education (2019.03 ~ 2023.08)<br>
-
+💻 SSAFY(Samsung Software Academy For Youth) 10th (2023.07 ~ 2024.06)<br>
+🎓 Department of Computer Science and Engineering (2019.03 ~ 2023.08)<br>
 
 <br/><br/>
 
 ## Skill
 
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/intellij idea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
 <br>
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=spring security&logoColor=white">
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"> 
 <br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> 
@@ -28,31 +27,6 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
 <br>
-
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
-<img src="https://img.shields.io/badge/intellij idea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white">
-<img src="https://img.shields.io/badge/Unity-57b9d3?style=for-the-badge&logo=Unity&logoColor=white">
-<!-- <br> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> -->
-<!-- <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">  -->
-<!-- <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white"> -->
-
-<br/><br/><br/>
-
-## Projects
-<!--
-🔗<a href="https://estuma.notion.site/9962fef0380a42eeb15b739f244d4082?pvs=4" target='_blank'>portfolio</a>
--->
-
-| Title | Introduction | Languages, etc. |
-| ------------- | ------------- | ------------- |
-| <a href="https://github.com/estuma/chuka">ㅊㅋ</a> | 온라인 롤링페이퍼 및 선물 펀딩 플랫폼 (2024) | Java, Spring Security, JWT, MongoDB, RabbitMQ |
-| <a href="https://github.com/estuma/yeojung">여행을 정산하다, 여정</a> | 여행 정산 어플리케이션 (2024) | Java, Spring Boot, JPA, Redis, Jenkins, Docker |
-| <a href="https://github.com/estuma/Mela">Mela!</a> | 음악 작업을 위한 구인, 공동 작업 플랫폼 (2024) | Java, Spring Boot, JPA, WebSocket |
-| <a href="https://github.com/estuma/TripLog">TripLog</a> | 여행 계획 및 사진 공유 플랫폼 (2023) | Java, Spring Boot, MyBatis, MySql, Vue.js, Pinia |
-| <a herf="">행복한 지구</a> | VR 환경 보호 실천 교육 프로그램 (2022) | C#, Unity, Oculus Quest 2, Blender, 3ds Max |
-| <a href="https://github.com/estuma/mobile">모여봐요 병천살이</a> | 중고거래 및 공동구매 어플리케이션 (2021) | Java, Android Studio, Firebase |
 
 <br><br><br>
 
